@@ -1,8 +1,7 @@
-**IMPORTANT PLEASE READ CAREFULLY:**
-**(UNRESTRICTED SOFTWARE)** 
-##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
-<br/>
-<br/>
+# LinkOS-Android-Samples-ListFormatsDemo
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_ AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br />
+
 
 <p float="left">
 <img width="432" height=”600” alt="screen shot 2018-07-10 at 5 05 15 pm" src="https://user-images.githubusercontent.com/41017424/42540329-a4498376-8463-11e8-9c82-7047b8f534ec.png">
